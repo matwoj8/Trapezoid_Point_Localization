@@ -1,4 +1,4 @@
-# Trapezoidal Point Location – Visualization
+# Trapezoidal Point Localization – Visualization
 
 A clean and educational visualization of the Trapezoidal Map Point Location Algorithm. This repository demonstrates how the algorithm incrementally constructs a trapezoidal map for a set of non‑intersecting segments and uses it to efficiently locate query points.
 
