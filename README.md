@@ -14,8 +14,6 @@ Below is the full algorithm execution represented as an animated GIF:
 ![Algorithm demo](./Project/point_localization.gif)
 ```
 
-A single animated visualization tells the whole story — from inserting segments, through trapezoid splitting, all the way to building the search DAG.
-
 ---
 
 ## 📘 Description
