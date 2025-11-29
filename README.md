@@ -10,9 +10,7 @@ The core of the project is a Jupyter Notebook that builds and visualizes the alg
 
 Below is the full algorithm execution represented as an animated GIF:
 
-```
 ![Algorithm demo](./Project/point_localization.gif)
-```
 
 ---
 
