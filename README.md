@@ -10,13 +10,9 @@ The core of the project is a Jupyter Notebook that builds and visualizes the alg
 
 Below is the full algorithm execution represented as an animated GIF:
 
-*(Insert your GIF here, for example:)*
-
 ```
-![Algorithm demo](Project/point_localization.gif)
+![Algorithm demo](./Project/point_localization.gif)
 ```
-
-A single animated visualization tells the whole story — from inserting segments, through trapezoid splitting, all the way to building the search DAG.
 
 ---
 
